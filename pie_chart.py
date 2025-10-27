@@ -3,7 +3,8 @@ import matplotlib.pyplot as plt
 
 
 df = pd.read_csv('shopping_behavior_updated.csv')
-size_group = df.groupby('Gender')['Purchase Amount (USD)'].sum()
+size_group = df.groupby('Category')['Purchase Amount (USD)'].sum()
+size_group = size_group.sort_values()
 
 plt.figure(figsize=(6, 6))
 plt.pie(
@@ -14,5 +15,5 @@ plt.pie(
     wedgeprops={'edgecolor': 'black'}
 )
 
-plt.title('Distribución del gasto por género', fontsize=14, weight='bold')
+plt.title('Distribución del gasto por categoría', fontsize=14, weight='bold')
 plt.show()
