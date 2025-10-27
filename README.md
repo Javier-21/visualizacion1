@@ -5,7 +5,7 @@ El conjunto de datos sobre el cual se trabaja contiene información sobre los co
 
 Para la realización del Pie Chart se ha optado por analizar el gasto en USD por tipo de producto. De esta forma podemos ver a grandes rasgos cual es el sector en el que la población invierte más.
 
-![Pie Chart con la distribución de las compras por tipo de producto](pie_chart.png)
+![Pie Chart con la distribución de las compras por tipo de producto](Pie_chart.png)
 
 Como podemos ver el mayor gasto se realiza en ropa, con un 44.7%. Seguido de la ropa, son los accesorios en los que las personas gastan más su dinero, con un 31.8%. Luego ya viene el calzado y por último estaría la ropa de abrigo.
 
