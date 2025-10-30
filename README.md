@@ -10,7 +10,11 @@ Para la realización del Pie Chart se ha optado por analizar el gasto en USD por
 Con este gráfico estamos ofreciendo de manera casi instantánea un foto general de cual es el sector que más dinero produce. La persona indicada podría con este gráfico, y en apenas unos segundo, evaluar o tomar decisiones sobre la dirección de la compañía. Habiendo adquirido un conocimiento sobre que el mercado de la ropa y los accesorios es el más explotable.
 
 Nombre del dataset: Shopping behaviours dataset
+
 Autor: Zubaira Maimona
+
 Año: 2025
+
 Licencia: CC0: Public Domain
+
 Enlace: https://www.kaggle.com/datasets/zubairamuti/shopping-behaviours-dataset/data
